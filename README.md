@@ -9,10 +9,10 @@
 i use it specially to prevent discord user to change their playing status
 or to display user's games in voice name with my own discord bot
 
-Currently 142 games
+Currently 47.183 games
 ```
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1168514079787323525/1168555980175442051/image.png" width="550" title="hover text">
+  <img src="https://cdn.discordapp.com/attachments/1168514079787323525/1168577838761390080/image.png" width="750" title="hover text">
 </p>
