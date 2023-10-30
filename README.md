@@ -8,6 +8,8 @@
 
 i use it specially to prevent discord user to change their playing status
 or to display user's games in voice name with my own discord bot
+
+Currently 142 games
 ```
 
 
