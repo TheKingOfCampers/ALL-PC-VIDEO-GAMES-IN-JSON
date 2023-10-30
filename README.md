@@ -1,2 +1,10 @@
-# All-Games-List
-List of all games with correct name in .json
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1168514079787323525/1168555342557347931/TheKing-Fire22.gif" width="350" title="hover text">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1168514079787323525/1168554257599959120/image.png" width="350" title="hover text">
+</p>
