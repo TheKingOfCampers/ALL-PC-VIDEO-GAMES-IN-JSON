@@ -14,5 +14,5 @@ Currently 47.183 games
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1168514079787323525/1168577838761390080/image.png" width="750" title="hover text">
+  <img src="https://raw.githubusercontent.com/TheKingOfCampers/All-Games-List/main/gameList.png" width="750" title="hover text">
 </p>
