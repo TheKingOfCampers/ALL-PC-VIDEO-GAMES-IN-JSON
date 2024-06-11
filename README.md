@@ -13,7 +13,7 @@ Currently 47.214 games
 ```
 <p align="center">
   <a href="https://github.com/TheKingOfCampers/ALL-PC-VIDEO-GAMES-IN-JSON/archive/refs/heads/main.zip"</a>
-  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092091889970319511/Download-Button.png" width="200">
+  <img src="Download.png" width="200">
 </p>
 
 
